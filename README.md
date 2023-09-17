@@ -1,7 +1,7 @@
 # RYA - BEST DISCORD RAID TOOL
 
 Best Discord Raiding tool free using python
-![failed to show banner](banner.png)  
+![failed to show banner](banner.PNG)  
 [FOR EDUCATIONAL PURPOSES ONLY]
 
 # How to use (compiled version)
