@@ -1,0 +1,8 @@
+pywin32
+datetime
+fade
+colorama
+requests
+uuid
+websocket-client
+tls_client
