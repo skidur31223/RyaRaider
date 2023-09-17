@@ -1,7 +1,7 @@
 # RYA - BEST DISCORD RAID TOOL
 
 Best Discord Raiding tool free using python
-![failed to show banner](./README_images/hackord_banner.png)  
+![failed to show banner](banner.png)  
 [FOR EDUCATIONAL PURPOSES ONLY]
 
 # How to use (compiled version)
@@ -11,7 +11,7 @@ Best Discord Raiding tool free using python
 
 # How to use (uncompiled version - src)
 1. Download latest python and add python to path
-2. Download the repository as a .zip file: https://gwgwgwgw.gegwege
+2. Download the repository as a .zip file: [here](https://github.com/skidur31223/RyaRaider/archive/refs/heads/main.zip)
 3. Unpack it with winrar or a other unzipping software
 4. Start installrequirements.bat to install all requirements
 5. Start start.bat
