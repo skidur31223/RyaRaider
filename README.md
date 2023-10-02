@@ -1,6 +1,9 @@
 # RYA - BEST DISCORD RAID TOOL
 
 Best Discord Raiding tool free using python
+
+02.10.2023 - Hcaptcha Bypass (ai solve chromedriver)
+
 ![failed to show banner](banner.PNG)  
 [FOR EDUCATIONAL PURPOSES ONLY]
 
